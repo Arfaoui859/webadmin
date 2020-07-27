@@ -1,0 +1,111 @@
+[08-Apr-2020 02:04:49 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to undefined function emtpty() in /home/bribritn/public_html/category.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/bribritn/public_html/category.php on line 46
+[08-Apr-2020 02:05:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to undefined function emtpty() in /home/bribritn/public_html/category.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/bribritn/public_html/category.php on line 46
+[08-Apr-2020 02:05:52 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to undefined function esset() in /home/bribritn/public_html/category.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/bribritn/public_html/category.php on line 46
+[08-Apr-2020 03:21:42 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 03:21:55 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 03:21:57 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 03:32:49 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/bribritn/public_html/header-footer/header.php on line 145
+[08-Apr-2020 03:33:20 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/bribritn/public_html/header-footer/header.php on line 145
+[08-Apr-2020 03:33:48 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/bribritn/public_html/header-footer/header.php on line 145
+[08-Apr-2020 03:34:41 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/bribritn/public_html/header-footer/header.php on line 145
+[08-Apr-2020 03:34:43 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/bribritn/public_html/header-footer/header.php on line 145
+[08-Apr-2020 03:34:43 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/bribritn/public_html/header-footer/header.php on line 145
+[08-Apr-2020 03:34:59 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/bribritn/public_html/header-footer/header.php on line 145
+[08-Apr-2020 03:36:22 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/bribritn/public_html/header-footer/header.php on line 145
+[08-Apr-2020 03:36:24 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/bribritn/public_html/header-footer/header.php on line 145
+[08-Apr-2020 03:36:48 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/bribritn/public_html/header-footer/header.php on line 145
+[08-Apr-2020 03:36:50 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/bribritn/public_html/header-footer/header.php on line 145
+[08-Apr-2020 03:36:53 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/bribritn/public_html/header-footer/header.php on line 145
+[08-Apr-2020 03:38:00 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/bribritn/public_html/header-footer/header.php on line 145
+[08-Apr-2020 03:38:13 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/bribritn/public_html/header-footer/header.php on line 145
+[08-Apr-2020 03:38:30 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/bribritn/public_html/header-footer/header.php on line 145
+[08-Apr-2020 03:38:43 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/bribritn/public_html/header-footer/header.php on line 142
+[08-Apr-2020 03:38:46 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/bribritn/public_html/header-footer/header.php on line 142
+[08-Apr-2020 03:38:52 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/bribritn/public_html/header-footer/header.php on line 142
+[08-Apr-2020 03:40:09 Europe/Paris] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bribritn/public_html/index.php:8) in /home/bribritn/public_html/header-footer/header.php on line 8
+[08-Apr-2020 03:41:37 Europe/Paris] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bribritn/public_html/index.php:8) in /home/bribritn/public_html/header-footer/header.php on line 8
+[08-Apr-2020 03:42:13 Europe/Paris] PHP Warning:  Cookie names must not be empty in /home/bribritn/public_html/header-footer/header.php on line 12
+[08-Apr-2020 03:42:19 Europe/Paris] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bribritn/public_html/index.php:8) in /home/bribritn/public_html/header-footer/header.php on line 12
+[08-Apr-2020 03:42:25 Europe/Paris] PHP Warning:  Cookie names must not be empty in /home/bribritn/public_html/header-footer/header.php on line 12
+[08-Apr-2020 03:42:34 Europe/Paris] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bribritn/public_html/index.php:8) in /home/bribritn/public_html/header-footer/header.php on line 12
+[08-Apr-2020 03:42:36 Europe/Paris] PHP Warning:  Cookie names must not be empty in /home/bribritn/public_html/header-footer/header.php on line 12
+[08-Apr-2020 03:44:30 Europe/Paris] PHP Warning:  Cookie names must not be empty in /home/bribritn/public_html/header-footer/header.php on line 12
+[08-Apr-2020 03:47:06 Europe/Paris] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bribritn/public_html/index.php:8) in /home/bribritn/public_html/header-footer/header.php on line 8
+[08-Apr-2020 03:54:04 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 03:54:21 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 04:01:39 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 3
+[08-Apr-2020 04:01:45 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 3
+[08-Apr-2020 04:02:39 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 3
+[08-Apr-2020 04:03:27 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 3
+[08-Apr-2020 04:05:28 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 3
+[08-Apr-2020 04:30:15 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 04:34:13 Europe/Paris] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bribritn/public_html/index.php on line 4
+[08-Apr-2020 04:34:18 Europe/Paris] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bribritn/public_html/index.php on line 4
+[08-Apr-2020 04:34:35 Europe/Paris] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bribritn/public_html/index.php on line 4
+[08-Apr-2020 04:35:20 Europe/Paris] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bribritn/public_html/index.php on line 4
+[08-Apr-2020 04:35:51 Europe/Paris] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bribritn/public_html/index.php on line 3
+[08-Apr-2020 04:35:51 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 04:37:41 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 04:38:05 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 04:46:15 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 04:48:27 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 04:49:35 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 04:52:46 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 04:56:09 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 04:57:28 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 04:57:53 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 04:59:04 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 04:59:36 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 04:59:52 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 05:08:16 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 05:08:36 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 05:20:07 Europe/Paris] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bribritn/public_html/index.php on line 7
+[08-Apr-2020 05:20:19 Europe/Paris] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bribritn/public_html/index.php on line 7
+[08-Apr-2020 05:21:38 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 05:22:21 Europe/Paris] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bribritn/public_html/index.php on line 7
+[08-Apr-2020 05:23:10 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 05:23:10 Europe/Paris] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bribritn/public_html/index.php on line 97
+[08-Apr-2020 05:23:10 Europe/Paris] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bribritn/public_html/index.php on line 99
+[08-Apr-2020 05:23:10 Europe/Paris] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bribritn/public_html/index.php on line 97
+[08-Apr-2020 05:23:10 Europe/Paris] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bribritn/public_html/index.php on line 99
+[08-Apr-2020 05:23:36 Europe/Paris] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bribritn/public_html/index.php on line 97
+[08-Apr-2020 05:23:36 Europe/Paris] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bribritn/public_html/index.php on line 99
+[08-Apr-2020 05:23:56 Europe/Paris] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bribritn/public_html/index.php on line 7
+[08-Apr-2020 05:23:56 Europe/Paris] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bribritn/public_html/index.php on line 97
+[08-Apr-2020 05:23:56 Europe/Paris] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bribritn/public_html/index.php on line 99
+[08-Apr-2020 05:24:05 Europe/Paris] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bribritn/public_html/index.php on line 7
+[08-Apr-2020 05:24:05 Europe/Paris] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bribritn/public_html/index.php on line 97
+[08-Apr-2020 05:24:05 Europe/Paris] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bribritn/public_html/index.php on line 99
+[08-Apr-2020 05:24:10 Europe/Paris] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bribritn/public_html/index.php on line 7
+[08-Apr-2020 05:24:10 Europe/Paris] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bribritn/public_html/index.php on line 97
+[08-Apr-2020 05:24:10 Europe/Paris] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bribritn/public_html/index.php on line 99
+[08-Apr-2020 05:24:33 Europe/Paris] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bribritn/public_html/index.php on line 86
+[08-Apr-2020 05:24:33 Europe/Paris] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bribritn/public_html/index.php on line 88
+[08-Apr-2020 05:25:15 Europe/Paris] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bribritn/public_html/index.php on line 86
+[08-Apr-2020 05:25:15 Europe/Paris] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bribritn/public_html/index.php on line 88
+[08-Apr-2020 05:30:18 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 05:30:27 Europe/Paris] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bribritn/public_html/index.php:10) in /home/bribritn/public_html/header-footer/header.php on line 11
+[08-Apr-2020 05:30:27 Europe/Paris] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bribritn/public_html/index.php:10) in /home/bribritn/public_html/header-footer/header.php on line 11
+[08-Apr-2020 05:31:36 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 05:31:36 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 05:31:44 Europe/Paris] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bribritn/public_html/index.php:10) in /home/bribritn/public_html/header-footer/header.php on line 11
+[08-Apr-2020 05:31:53 Europe/Paris] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bribritn/public_html/index.php:10) in /home/bribritn/public_html/header-footer/header.php on line 11
+[08-Apr-2020 05:33:39 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/bribritn/public_html/index.php on line 157
+[08-Apr-2020 05:33:56 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/bribritn/public_html/index.php on line 157
+[08-Apr-2020 05:35:00 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/bribritn/public_html/index.php on line 156
+[08-Apr-2020 05:39:21 Europe/Paris] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bribritn/public_html/index.php:11) in /home/bribritn/public_html/header-footer/header.php on line 11
+[08-Apr-2020 05:54:11 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 06:01:53 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 18:59:28 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 19:01:15 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 19:07:50 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
+[08-Apr-2020 19:31:47 Europe/Paris] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bribritn/public_html/header-footer/header.php on line 2
